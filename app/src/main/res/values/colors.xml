@@ -1,0 +1,9 @@
+<resources>
+    <color name="backgroundColor">#0A0A16</color>
+    <color name="primaryColor">#FF3F51B5</color>
+    <color name="accentColor">#FF448AFF</color>
+    <color name="magentaColor">#FF448AFF</color>
+    <color name="cardBackground">#FF141428</color>
+    <color name="textPrimary">#FFF5F5F5</color>
+    <color name="textSecondary">#FF999999</color>
+</resources>
